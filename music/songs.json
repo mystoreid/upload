@@ -1,2 +1,9 @@
-[
-]
+{
+    "theme": {
+        "label": "DJ Remix",
+        "title": "Dj Music",
+        "description": "Koleksi Dj Music",
+        "style": "dj"
+    },
+    "songs": []
+}
