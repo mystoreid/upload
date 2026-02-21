@@ -5,5 +5,12 @@
         "description": "Koleksi Dj Music",
         "style": "dj"
     },
-    "songs": []
+    "songs": [
+        {
+            "title": "DJ RIP LOVE",
+            "artist": "NE Product",
+            "url": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/music\/audio\/audio_1771675197_69999e3d96f8b.mp3",
+            "cover": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/music\/cover\/cover_1771675208_69999e486a78f.jpg"
+        }
+    ]
 }
