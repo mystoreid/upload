@@ -5,5 +5,12 @@
         "description": "Koleksi Dj Music",
         "style": "dj"
     },
-    "songs": []
+    "songs": [
+        {
+            "title": "test",
+            "artist": "test",
+            "url": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/up\/tiktok_audio_1771238244353-1771671015.mp3",
+            "cover": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/up\/Screenshot_20260102-182441-1771668406.png"
+        }
+    ]
 }
