@@ -1,12 +1,4 @@
 {
     "songs": [
-        {
-            "id": "song_699a62006a3f1",
-            "title": "test",
-            "artist": "test",
-            "url": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/music\/uploads\/699a61f68ad45_20260221.mp3",
-            "cover": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/music\/uploads\/699a61fc4422e_20260221.jpg",
-            "duration": "3:00"
-        }
     ]
 }
