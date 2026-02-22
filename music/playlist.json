@@ -1,3 +1,12 @@
 {
-    "songs": []
+    "songs": [
+        {
+            "id": "song_699a8933f2f4e",
+            "title": "DJ TERI MERI X RABNE KANE",
+            "artist": "unknown",
+            "url": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/music\/audio\/699a89045b45e_20260221.mp3",
+            "cover": "https:\/\/raw.githubusercontent.com\/mystoreid\/upload\/main\/music\/covers\/699a8911e189b_20260221.jpg",
+            "duration": "3:00"
+        }
+    ]
 }
